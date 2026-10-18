@@ -34,7 +34,7 @@ Dashboard Power BI phân tích hành vi khách hàng của một shop bán buôn
 
 ## Dữ liệu
 
-- Nguồn: **Online Retail II (UCI)** trên Kaggle: [ĐIỀN LINK DATASET VÀO ĐÂY](https://www.kaggle.com).
+- Nguồn: **Online Retail II (UCI)** trên Kaggle: [https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data?select=online_retail_II.csv](https://www.kaggle.com).
 - Giai đoạn: 12/2009 đến 09/12/2011, 1.067.371 dòng gốc, sau làm sạch còn **805.547 dòng**.
 - File dữ liệu gốc không được đưa lên repo vì dung lượng lớn (khoảng 95 MB). Tải từ Kaggle nếu muốn chạy lại.
 

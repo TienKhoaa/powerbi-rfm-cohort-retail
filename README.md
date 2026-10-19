@@ -6,7 +6,11 @@ Dashboard Power BI phân tích hành vi khách hàng của một shop bán buôn
 2. Ai đang có nguy cơ rời bỏ và cần được kéo lại?
 3. Khách mới mua lần đầu có quay lại không, và giữ chân được bao lâu?
 
-![Demo dashboard](images/demo.gif)
+
+
+https://github.com/user-attachments/assets/479b8785-c771-4fe7-8df5-91931b50ef24
+
+
 
 ## Tóm tắt kết quả
 

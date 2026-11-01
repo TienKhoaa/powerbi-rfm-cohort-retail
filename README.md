@@ -1,5 +1,5 @@
-# Phân tích khách hàng bán lẻ: RFM Segmentation & Cohort Retention (Power BI)
-
+# Online Retail Customer Intelligence
+Phân tích khách hàng bán lẻ: RFM Segmentation & Cohort Retention (Power BI)
 Dashboard Power BI phân tích hành vi khách hàng của một shop bán buôn quà tặng online ở Anh, trả lời 3 câu hỏi:
 
 1. Ai là nhóm khách quan trọng nhất cần giữ chân?
